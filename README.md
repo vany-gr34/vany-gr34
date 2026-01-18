@@ -4,7 +4,7 @@
 I'm an AI & Data Science student passionate about building intelligent systems and automating machine learning workflows. I love exploring data, uncovering insights, and creating tools that make data science and AI more accessible.
 
 ## Technologies & Tools
-## Technologies & Tools
+
 
 ###  Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
